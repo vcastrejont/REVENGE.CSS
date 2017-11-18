@@ -143,9 +143,9 @@ button.disabled:not([disabled])::after,
 [data-toggle="dropdown"]:not([aria-haspopup])::after
 {
    display: inline-block !important;
-   background: #dc143c !important;
+   background: #E91E63 !important;
    padding: 0.25em !important;
-   font-family: 'comic sans ms', cursive !important;
+   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
    color: #fff !important;
    font-size: 14px !important;
    text-shadow: none !important;
